@@ -1,11 +1,11 @@
 ##### 5 Terms
-<h1> Cipher <h1>
+### Cipher
 A set of rules that you're using to encode the information
-<h2> Cryptogram <h2>
+### Cryptogram 
 Is a encrypted message
-<h3> Key <h3>
+### Key
 Encryption and Decryption keys, but they are not the same
-<h4> Crib <h4>
+### Crib
 A letter that is in a predctiable position consistently in messages
-<h5> Cryptography <h5>
+### Cryptography
 is the practice and study of techniques for securing communication and data
